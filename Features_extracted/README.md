@@ -1,16 +1,10 @@
-# Dependencies
-python==3.9.7
-torch==1.13.1
-cuda==11.7.1
+# Data Privacy Statement
+Given the ethical risks and privacy concerns associated with the data in this dataset, we have implemented strict access and authorization management measures to ensure its lawful and compliant use while avoiding potential ethical disputes arising from improper data usage.
+
+If you require access to the dataset labels or extracted features, please contact us through the following channels:
+
+Primary Contact Email: sstcneu@163.com
+CC Email: fuchangzeng@qhd.neu.edu.cn
 
 
-# Training networks 
-
-    python main_depression.py 
-    python main_wellbeing.py
-
-# Predictioning networks 
-
-    python test_depression.py 
-    python test_wellbeing.py
 
