@@ -3,9 +3,9 @@ Given the potential ethical risks and privacy concerns associated with this data
 
 To further safeguard the security and compliance of the data, please complete the following steps before contacting us to request access to the dataset labels and extracted features:  
 
-1. **Download the M3PADD Dataset License Agreement PDF**: You can locate the PDF file named *M3PADD Dataset License Agreement* in the `Features_extracted` folder.  
-2. **Carefully review the agreement**: The agreement outlines in detail the usage specifications, restrictions, and the responsibilities and obligations of the licensee. Please read the document thoroughly to ensure complete understanding of the terms and conditions.  
-3. **Manually sign the agreement**: After confirming your full understanding and agreement with the terms, fill in the required fields and sign the agreement by hand as formal acknowledgment of your acceptance.  
+**1. Download the M3PADD Dataset License Agreement PDF**: You can locate the PDF file named *M3PADD Dataset License Agreement* in the `Features_extracted` folder. 
+**2. Carefully review the agreement**: The agreement outlines in detail the usage specifications, restrictions, and the responsibilities and obligations of the licensee. Please read the document thoroughly to ensure complete understanding of the terms and conditions.  
+**3. Manually sign the agreement**: After confirming your full understanding and agreement with the terms, fill in the required fields and sign the agreement by hand as formal acknowledgment of your acceptance.  
 
 Once you have completed the above steps, please submit the required materials to us through the following channels:  
 - **Primary contact email**: sstcneu@163.com  
@@ -15,8 +15,7 @@ We will review your submission to verify that you meet the access requirements. 
 
 We sincerely appreciate your cooperation in protecting data privacy and ensuring compliant use. If you have any questions or require further guidance, please feel free to contact us via the emails provided above.  
 
-**Primary Contact Email:** sstcneu@163.com
-**CC Email:** fuchangzeng@qhd.neu.edu.cn
+
 
 
 
